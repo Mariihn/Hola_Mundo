@@ -1,7 +1,7 @@
-# progra2
+# Hola_Mundo
 
-Hola Mundo
+Mi Primer Repositorio en Github
 
-Hola Curso!!
+Me gusta comer y ver Anime
 
-Que dia lluvioso :)
+Grupo CodeHive: Hola Mundo! UTNFSR TUP 2023
